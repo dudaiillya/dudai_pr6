@@ -1,0 +1,11 @@
+{
+  "name": "dudai_pr6",
+  "version": "1.0.0",
+  "description": "University management system using TypeScript and enums",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
